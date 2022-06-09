@@ -1,10 +1,10 @@
 ## Minha Biblioteca Virtual (My Virtual Library)
 
-    O projeto da**Minha Biblioteca Virtual** foi construído primeiramente com o intuito de cumprir o desafio proposto durante a seleção para vaga de desenvolvedor pleno e segundamente por adquirir mais conhecimentos e práticas com novas stack's.
+O projeto da**Minha Biblioteca Virtual** foi construído primeiramente com o intuito de cumprir o desafio proposto durante a seleção para vaga de desenvolvedor pleno e segundamente por adquirir mais conhecimentos e práticas com novas stack's.
 
 ## Sobre o desafio
 
-    Criado para medir os conhecimentos, o desafio indicado foi a criação de uma plataforma web de gerenciamento de uma biblioteca com as seguintes funções obrigatórias que o(s) usuário(s) poderão realizar:
+Criado para medir os conhecimentos, o desafio indicado foi a criação de uma plataforma web de gerenciamento de uma biblioteca com as seguintes funções obrigatórias que o(s) usuário(s) poderão realizar:
 
 - Cadastro de livros contendo os seguintes campos (obrigatórios):
   - Nome;
@@ -78,11 +78,11 @@ Pronto! Agora o projeto Fullstack Django está funcionando e rodando no endereç
 Abra o seu terminal no diretório /mv-library-reactjs encontrado na raiz deste diretório e execute os seguintes comandos:
 
 ```
-$ npm i$
+$ npm i
 ```
 
 ```
-$ npm run dev$
+$ npm run dev
 ```
 
 Com isto a aplicação Front-end com React JS estará rodando no endereço [http://127.0.0.1:3000]().
@@ -91,8 +91,13 @@ Com isto a aplicação Front-end com React JS estará rodando no endereço [http
 ## Planejamento de desenvolvimento
 
 1 - Estudar sobre Django;
+
 2 - Levantamento de requisitos;
+
 3 - Criar a aplicação fullstack;
+
 4 - Criar a API com o Django;
+
 5 - Criar o front-end com reactjs;
+
 6 - Integrar o front em reactjs com a API em Django;
