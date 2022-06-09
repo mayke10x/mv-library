@@ -1,7 +1,12 @@
+import Header from "./components/Header";
+import ListBooks from "./components/ListBooks";
+
 function App() {
   return (
-    <div className="App">
-      
+    <div className="app_content">
+      <Header />
+
+      <ListBooks />
     </div>
   )
 }
