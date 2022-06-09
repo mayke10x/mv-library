@@ -1,6 +1,6 @@
 ## Minha Biblioteca Virtual (My Virtual Library)
 
-O projeto da**Minha Biblioteca Virtual** foi construído primeiramente com o intuito de cumprir o desafio proposto durante a seleção para vaga de desenvolvedor pleno e segundamente por adquirir mais conhecimentos e práticas com novas stack's.
+O projeto da **Minha Biblioteca Virtual** foi construído primeiramente com o intuito de cumprir o desafio proposto durante a seleção para vaga de desenvolvedor pleno e segundamente por adquirir mais conhecimentos e práticas com novas stack's.
 
 ## Sobre o desafio
 
