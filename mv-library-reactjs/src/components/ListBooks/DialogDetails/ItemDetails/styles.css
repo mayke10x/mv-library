@@ -1,0 +1,26 @@
+.item_details {
+    border: 1px solid var(--success) !important;
+    border-radius: 4px !important;
+    padding: 0.2rem 0.8rem !important;
+
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem !important;
+}
+
+.title_item_details {
+    font-size: 1rem !important;
+    font-weight: bold !important;
+    color: var(--info) !important;
+    border-bottom: 1px solid var(--success) !important;
+}
+
+.value_item_details {
+    font-size: 1rem !important;
+    font-weight: bold !important;
+    color: var(--primary) !important;
+}
+
+.preview_img {
+    
+}

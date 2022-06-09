@@ -1,0 +1,62 @@
+.list_books_content {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 1rem !important;
+
+    margin-bottom: 2rem !important;
+}
+
+.btn_new_book {
+    background: var(--info) !important;
+}
+
+.list_books_content table {
+    width: 50%;
+}
+
+.list_books_content tr > th {
+    background: #e5e5e5 !important;
+}
+
+.list_books_content tr {
+    background: #f4f4f4 !important;
+}
+
+.title_list_books {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+
+    font-weight: bold !important;
+    font-size: 2rem !important;
+    color: var(--primary) !important;
+    text-transform: uppercase;
+}
+
+.title_list_books::after {
+    content: "";
+    width: 4rem;
+    height: 0.4rem;
+    border-radius: 4px;
+    background-color: var(--warning);
+}
+
+/* Estilos para os dialogos */
+.dialog_title {
+    background-color: var(--primary) !important;
+}
+
+.text_dialog_title {
+    color: var(--success) !important;
+    text-align: center !important;
+    font-size: 1.6rem !important;
+    font-weight: 600 !important;
+}
+
+@media (max-width: 840px) {
+    .list_books_content {
+        padding: 0 0.4rem !important;
+    }
+}
