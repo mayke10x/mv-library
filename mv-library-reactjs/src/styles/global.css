@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap');
+
+:root {
+    --primary: #042940;
+    --secondary: #005C53;
+    --info: #9FC131;
+    --success: #DBF227;
+    --warning: #D6D58E;
+    --danger: #8F1A1A;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-size: 15px;
+}
+
+body {
+    background-color: #fafafa;
+}
+
+.app_content {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.5rem !important;
+}
